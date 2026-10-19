@@ -1,4 +1,4 @@
-# Sales Performance
+# Sales Performance Data Pipeline 
 # I. Introduction
 - Context: In a fast-moving consumer goods (FMCG) trading and distribution company, business data is stored in a dispersed manner across multiple sources, including Excel files sent via email, manual reports from the old ERP software, and data stored on Google Drive/OneDrive for each department
 - Business requirement: Management requires the development of a unified reporting system that automates data aggregation and provides business performance analysis reports
