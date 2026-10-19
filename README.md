@@ -37,4 +37,4 @@ Data source/file by BU:
 # V. Conclusion
 - This project demonstrates an end-to-end data pipeline for bringing business data into a unified reporting workflow. Python extracts data from Google Drive and loads it into PostgreSQL, where it is organized using a medallion architecture: Bronze for raw data, Silver for cleaned data, and Gold for analytics-ready data. Power BI connects to the database to present business performance through an interactive dashboard.
 - The pipeline provides a foundation for reducing manual data consolidation and making reporting more consistent. It can be extended to include additional sources, such as Excel files, ERP reports, and OneDrive, as well as further data-quality checks and automated refreshes.
-- This pipeline still needs more improvement to make it automatically update in real time when deploying in real life
+- This project still needs more improvement to make it automatically update in real time when deploying in real life
